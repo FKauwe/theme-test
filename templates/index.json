@@ -12,27 +12,6 @@
     "hero_jVaWmY": {
       "type": "hero",
       "blocks": {
-        "ai_gen_block_29867eb_pVTPAf": {
-          "type": "ai_gen_block_29867eb",
-          "settings": {
-            "heading": "Welcome",
-            "text": "Add your message here to engage your customers.",
-            "button_text": "Shop now",
-            "button_link": "",
-            "desktop_width_percent": 100,
-            "text_alignment": "center",
-            "padding": 40,
-            "spacing": 16,
-            "border_radius": 14,
-            "background_color": "#EEF1EA",
-            "heading_color": "#000000",
-            "heading_size": 32,
-            "text_color": "#333333",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff"
-          },
-          "blocks": {}
-        },
         "text_YLPk4p": {
           "type": "text",
           "name": "t:names.heading",
@@ -80,7 +59,6 @@
         }
       },
       "block_order": [
-        "ai_gen_block_29867eb_pVTPAf",
         "text_YLPk4p",
         "button_H9gpTf"
       ],
