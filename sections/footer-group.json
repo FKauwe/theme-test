@@ -124,6 +124,22 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "jumbo_text_9AQA8a": {
+          "type": "jumbo-text",
+          "name": "t:names.jumbo_text",
+          "settings": {
+            "text": "Be bold.",
+            "font": "heading",
+            "alignment": "left",
+            "line_height": "0.8",
+            "letter_spacing": "-0.03em",
+            "case": "none",
+            "text_effect": "none",
+            "animation_repeat": false,
+            "text_color": ""
+          },
+          "blocks": {}
+        },
         "group_wErUQf": {
           "type": "group",
           "name": "Join our email list",
@@ -298,6 +314,7 @@
         }
       },
       "block_order": [
+        "jumbo_text_9AQA8a",
         "group_wErUQf",
         "menu_footer",
         "menu_main"
